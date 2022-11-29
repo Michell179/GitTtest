@@ -11,7 +11,25 @@ p {
     border-color: aquamarine;
 }
 
-footer {
+.names p:hover {
+    color: black;
+    background-color: beige;
+    border-color: beige;
+}
+
+.tasks {
+    border-radius: 20px;
+    border-style: double;
+    border-width: 5px;
+    border-color:slateblue;
+    background-color: antiquewhite;
+}
+
+.tasks li:hover {
+    color: brown;
+}
+
+.footer {
     display: flex;
     flex-direction:column;
     color:tomato;
