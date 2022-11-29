@@ -10,3 +10,13 @@ p {
     background-color: aquamarine;
     border-color: aquamarine;
 }
+
+footer {
+    display: flex;
+    flex-direction:column;
+    color:tomato;
+    align-content:space-between;
+    justify-content: end;
+    margin-block-end: 20px;
+    margin-top: 400px;
+}
