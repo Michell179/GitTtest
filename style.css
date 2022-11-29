@@ -27,6 +27,7 @@ p {
 
 .tasks li:hover {
     color: brown;
+    font-size: 20px;
 }
 
 .footer {
@@ -36,5 +37,5 @@ p {
     align-content:space-between;
     justify-content: end;
     margin-block-end: 20px;
-    margin-top: 400px;
+    margin-top: 360px;
 }
